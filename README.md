@@ -48,13 +48,11 @@ I aim to bridge the gap between research and real-world engineering by building 
 
 ## 📊 GitHub Stats
 
-![Sameet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameetpatro\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sameetpatro&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameetpatro\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sameetpatro&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sameetpatro\&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sameetpatro\&theme=darkhub\&no-frame=true\&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sameetpatro&theme=darkhub)
 
 ---
 

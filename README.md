@@ -88,3 +88,8 @@ I aim to bridge the gap between research and real-world engineering by building 
 
 * 💼 LinkedIn: https://www.linkedin.com/in/sameet-patro/
 * 📧 Email: [sameetpatratsp2004@gmail.com](mailto:sameetpatratsp2004@gmail.com)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=sameetpatro&label=Profile%20views&color=0e75b6&style=flat)

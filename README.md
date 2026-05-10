@@ -22,7 +22,7 @@ I aim to bridge the gap between research and real-world engineering by building 
 
 ### 💻 Languages
 
-`Python` `Kotlin` `C++` `JavaScript`
+`Python` `Kotlin` `C++` `JavaScript` `Go`
 
 ### ⚙️ Backend & Web
 
@@ -59,8 +59,8 @@ I aim to bridge the gap between research and real-world engineering by building 
 ## 🏆 Achievements
 
 * 🥈 1st Runner-Up — Signal Hunt (IIIT Delhi)
-* 💻 Solved 500+ DSA problems (LeetCode Peak Rating: 1680)
-* ⭐ CodeChef 2-Star
+* 💻 Solved 600+ DSA problems (LeetCode Peak Rating: 1692)
+* ⭐ CodeChef 3-Star (Peak rating: 1614)
 * 📸 President — Photography Club (led 20+ members & events)
 
 ---
